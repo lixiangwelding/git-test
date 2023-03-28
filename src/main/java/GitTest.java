@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("master 提交");
         System.out.println("hot-fix test!");
         System.out.println("提交到github");
+        System.out.println("拉取远程库到本地测试");
+        
     }
 }
